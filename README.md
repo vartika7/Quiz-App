@@ -2,7 +2,9 @@
 
 
 • Frameworks used: 
+  
   ➱Java Swing
+  
   ➱Java AWT(Abstract Window Toolkit)
   
 • This is a Java project in which there are 10MCQ's.
